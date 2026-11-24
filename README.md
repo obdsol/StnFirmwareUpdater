@@ -10,7 +10,7 @@ A desktop app from OBD Solutions for updating the firmware on OBDLink scan tools
 
 - Windows 10 or 11, 64-bit.
 - The installer isn't code-signed yet, so Windows SmartScreen may warn about it. Choose **More info**, then **Run anyway**.
-- It installs the .NET 10 Desktop Runtime if your PC doesn't have it.
+- Nothing else to install: the app brings everything it needs.
 - Every release, with a portable zip that needs no installation, is on the [Releases page](https://github.com/obdsol/StnFirmwareUpdater/releases).
 
 Versions for macOS and Linux are in the works.
